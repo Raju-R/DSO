@@ -1,4 +1,4 @@
-Question 1 - MySLQ best practices shell script
+Question 1 - MySLQ best practices bash shell
 
 Question 2 - Docker code Solution
 
